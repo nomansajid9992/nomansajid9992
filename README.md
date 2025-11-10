@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 - 🎓 Student of **BScs at University of Management and Technology (UMT)**
-- 💻 Skilled in **WordPress**, **Shopify**, **Wix**
+- 💻 Skilled in **WordPress**, **Shopify**, **Full stack (mearn developer)**
 - 🌱 Currently learning **Flutter App Development**
 - ⚡ Passionate about building beautiful, responsive and high-performing web apps
 
