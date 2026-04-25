@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Student of **BScs at University of Management and Technology (UMT)**
+- 🎓 Student of **BSCS at University of Management and Technology (UMT)**
 - 💻 Skilled in **WordPress**, **Shopify**, **Full Stack(MERN Developer)**
 - 🌱 Currently learning **Flutter App Development**
 - ⚡ Passionate about building beautiful, responsive and high-performing web apps
